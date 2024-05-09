@@ -7,6 +7,8 @@ Mahan Agha Zahedi<sup>1</sup>, Niloofar Gholamrezaei<sup>2</sup>, [Alex Doboli](
 
 Preprint available on [Arxiv](https://arxiv.org/abs/2203.16031)
 
+[![DOI](https://zenodo.org/badge/798355329.svg)](https://zenodo.org/doi/10.5281/zenodo.11167489)
+
 ## Abstract
 </div>
 
