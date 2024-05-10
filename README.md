@@ -1,7 +1,7 @@
 <div align="center">
   
 # **How Deep is Your Art: An Experimental Study on the Limits of Artistic Understanding in a Single-Task, Single-Modality Neural Network**
-Mahan Agha Zahedi<sup>1</sup>, Niloofar Gholamrezaei<sup>2</sup>, [Alex Doboli](http://www.ece.stonybrook.edu/~adoboli/)<sup>1</sup>
+[Mahan Agha Zahedi](https://www.linkedin.com/in/mahanaghazahedi/)<sup>1</sup>, Niloofar Gholamrezaei<sup>2</sup>, [Alex Doboli](http://www.ece.stonybrook.edu/~adoboli/)<sup>1</sup>
 
 <sup>1</sup>Stony Brook University, <sup>2</sup>Texas Tech University
 
