@@ -39,7 +39,10 @@ The dataset used in this study can be built using the table below from [Jackson 
 
 [New york, Paris, and Rome](https://www.jacksonfineart.com/exhibitions/81-elliott-erwitt-new-york-paris-rome/)
 
-Non-Art
+[Non-Art-18](None-Art-18.zip)
+
+[Non-Art-34](None-Art-34.zip)
+
 
 [Painted Nudes](https://www.jacksonfineart.com/exhibitions/203-saul-leiter-painted-nudes/)
 
