@@ -7,7 +7,7 @@ We cannot publish the dataset due to copyright, courtesy of [Jackson Fine Art Ga
 2. Navigate to each gallery's online exhibition, using the links provided in the [Gallery Links](#gallery-links) section, and click on view all to see the whole exhibition pieces.
 3. In each online exhibition, only use the art pieces (photographs), and leave out the images from the physical exhibition showing the juxtaposition of the art pieces together in the 3D space.
 
-Please note that the fake gallery, Non-Art, is included in this repository as zip files, in both versions of 18 and 34 images.
+Please note that the fake gallery, Non-Art, is included in this repository as zip files, in both versions of [18](https://github.com/aghazahedim/How-Deep-is-Your-Art/blob/main/None-Art-18.zip) and [34](https://github.com/aghazahedim/How-Deep-is-Your-Art/blob/main/None-Art-34.zip) images.
 
 ![Table_5](https://github.com/aghazahedim/How-Deep-is-Your-Art/assets/38115241/acc3128f-98e9-4a84-9574-d03a9024930d)
 
