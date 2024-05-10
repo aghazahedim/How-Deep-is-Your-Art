@@ -4,7 +4,7 @@ We cannot publish the dataset due to copyright, courtesy of [Jackson Fine Art Ga
 ## **Dataset Reconstruction Instructions**
 
 1. Select a dataset from the table below.
-2. Navigate to each gallery's online exhibition, using the links provided in the [Gallery Links](#Gallery_Links) section, and click on view all to see the whole exhibition pieces.
+2. Navigate to each gallery's online exhibition, using the links provided in the [Gallery Links](#gallery_links) section, and click on view all to see the whole exhibition pieces.
 3. In each online exhibition, only use the art pieces (photographs), and leave out the images from the physical exhibition showing the juxtaposition of the art pieces together in the 3D space.
 
 Please note that the fake gallery, Non-Art, is included in this repository as zip files, in both versions of 18 and 34 images.
